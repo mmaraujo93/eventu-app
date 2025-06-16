@@ -1,0 +1,12 @@
+{
+  "name": "eventu-app",
+  "version": "1.0.0",
+  "description": "Mapa de calor e eventos locais",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Build step skipped (static site)'",
+    "start": "npx serve"
+  },
+  "author": "",
+  "license": "MIT"
+}
